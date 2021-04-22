@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">QuadB</string>
+    <string name="pro">Pro</string>
+    <string name="pizza">Pizza</string>
+    <string name="burger">Burger</string>
+    <string name="cake">Cake</string>
+    <string name="healthy">Healthy</string>
+    <string name="sandwich">Sandwich</string>
+    <string name="chinese">Chinese</string>
+    <string name="chaat">Chaat</string>
+    <string name="fries">Fries</string>
+    <string name="food_category">Eat what makes you happy</string>
+    <string name="location">Rawalpada, Dahisar East</string>
+    <string name="search">Restaurant name, cuisine, or a dish...</string>
+</resources>
