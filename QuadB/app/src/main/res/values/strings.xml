@@ -12,4 +12,22 @@
     <string name="food_category">Eat what makes you happy</string>
     <string name="location">Rawalpada, Dahisar East</string>
     <string name="search">Restaurant name, cuisine, or a dish...</string>
+    <string name="order">Order</string>
+    <string name="go_out">Go Out</string>
+    <string name="nutrition">Nutrition</string>
+    <string name="donate">Donate</string>
+
+    <string-array name="cuisines">
+        <item>Afghan</item>
+        <item>Asian</item>
+        <item>BBQ</item>
+        <item>Chinese</item>
+        <item>Desserts</item>
+        <item>French</item>
+        <item>Gujarati</item>
+        <item>Indian</item>
+        <item>Italian</item>
+        <item>Japanese</item>
+        <item>Mexicon</item>
+    </string-array>
 </resources>

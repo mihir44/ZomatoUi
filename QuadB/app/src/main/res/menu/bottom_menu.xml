@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_order"
+        android:icon="@drawable/shopping_bag"
+        android:title="@string/order" />
+
+    <item
+        android:id="@+id/navigation_go_out"
+        android:title="@string/go_out"
+        android:icon="@drawable/shoe"/>
+
+    <item
+        android:id="@+id/navigation_pro"
+        android:icon="@drawable/crown"
+        android:title="@string/pro" />
+    <item
+        android:id="@+id/navigation_nutrition"
+        android:icon="@drawable/heartbeat"
+        android:title="@string/nutrition" />
+    <item
+        android:id="@+id/navigation_donate"
+        android:icon="@drawable/hand_holding_heart"
+        android:title="@string/donate" />
+</menu>
