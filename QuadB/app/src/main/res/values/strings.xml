@@ -16,6 +16,8 @@
     <string name="go_out">Go Out</string>
     <string name="nutrition">Nutrition</string>
     <string name="donate">Donate</string>
+    <string name="rating">Rating 4.0+</string>
+    <string name="max_safety">MAX Safety</string>
 
     <string-array name="cuisines">
         <item>Afghan</item>
