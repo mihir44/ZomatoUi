@@ -18,6 +18,7 @@
     <string name="donate">Donate</string>
     <string name="rating">Rating 4.0+</string>
     <string name="max_safety">MAX Safety</string>
+    <string name="see_more">see more</string>
 
     <string-array name="cuisines">
         <item>Afghan</item>
